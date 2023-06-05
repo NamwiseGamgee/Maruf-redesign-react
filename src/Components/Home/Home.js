@@ -1,5 +1,6 @@
 import React from 'react';
 import './Home.css'
+import { Link } from 'react-router-dom';
 const Home = () => {
     return (
         <div>
@@ -12,7 +13,7 @@ const Home = () => {
                         <h2 className='text-xl mb-[11px] text-[#a5a5a5]'>Hi, this is</h2> <br />
                         <h2 className='text-5xl font-bold text-white mb-[18px]'>Abdullah Al Maruf</h2><br />
                         <p className='text-xl mb-[18px] text-[#a5a5a5]'>I'm a freelance Graphic and UI/UX designer based in Dhaka, <br /> Bangladesh. I specialized in creating outstanding visuals <br />that helps your brand to achieve business goals.</p>
-                        <button className='block bg-[#ffb444] text-2xl py-3 px-11 font-semibold rounded-[48px]'>Contact</button>
+                        <Link to='/contact' className='block bg-[#ffb444] text-2xl py-3 px-11 w-fit font-semibold rounded-[48px]'>Contact</Link>
                     </div>
                 </div>
             </div>
