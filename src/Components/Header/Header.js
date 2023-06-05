@@ -10,7 +10,7 @@ const Header = () => {
             </Link>
             <div className='text-sm flex gap-20 text-white'>
                 <ActiveLink to='/'>Home</ActiveLink>
-                <a href="">Portfolio</a>
+                <a href="https://www.behance.net/abdullahalmaruf1" target='blank'>Portfolio</a>
                 <ActiveLink to='/contact'>Contact</ActiveLink>
             </div>
         </div>
