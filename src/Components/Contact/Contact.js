@@ -50,7 +50,7 @@ const Contact = () => {
                 <div className='grid md:grid-cols-3 gap-5'>
                     <div className='flex flex-col gap-5'>
                         <div>
-                            <input id='name' className='text-[#a5a5a5] block input-field py-7 px-[10px] w-full' type="text" placeholder='Full name' />
+                            <input id='name' className='text-[#a5a5a5] block input-field py-7 px-[34px] w-full' type="text" placeholder='Full name' />
                         </div>
                         <div>
                             <input id='email' className='text-[#a5a5a5] block input-field py-7 px-[34px] w-full' type="text" placeholder='Email Address' />
