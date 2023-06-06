@@ -4,15 +4,15 @@
     border-radius: 10px;
 }
 
-.contact {
+/* .contact {
     display: grid;
     grid-template-columns: 40% 60%;
     gap: 20px;
-}
+} */
 
-.contact .flex-col {
+/* .contact .flex-col {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     gap: 40px;
-}
+} */

@@ -2,8 +2,8 @@ import React from 'react';
 import './Footer.css'
 const Footer = () => {
     return (
-        <div className='py-6 px-[100px] bg-[#010818] flex justify-between items-center'>
-            <div className='text-sm text-[#a5a5a5] flex gap-12'>
+        <div className='py-6 px-[20px] md:px-[100px] bg-[#010818] flex flex-col lg:flex-row text-center gap-5 md:justify-between items-center'>
+            <div className='text-sm text-[#a5a5a5] flex gap-5 md:gap-12'>
                 <div>
                     <a href="https://www.linkedin.com/in/maruf1" target='blank'>LinkedIn</a>
                 </div>
