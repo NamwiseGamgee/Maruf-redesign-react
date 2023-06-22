@@ -25,7 +25,7 @@ const Header = () => {
             <div onClick={navHandler} className='md:hidden z-20'>
                 {!navBar ? <FaBars className='text-white' size={25}></FaBars> : <FaTimes className='text-white' size={32}></FaTimes>}
             </div>
-            <div className={navBar ? ' md:hidden absolute top-0 left-0 w-full h-screen bg-[#0a192f] flex flex-col justify-center items-center' : 'hidden'}>
+            <div className={navBar ? ' md:hidden absolute top-0 left-0 w-full h-screen bg-[#010818] flex flex-col justify-center items-center' : 'hidden'}>
                 <ul>
                     <li className='py-6 text-4xl text-white'> <Link onClick={navHandler} to='/' >Home</Link></li>
                     <li className='py-6 text-4xl text-white'><a onClick={navHandler} href='https://www.behance.net/abdullahalmaruf1' target='blank' >Portfolio</a></li>

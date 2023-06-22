@@ -14,7 +14,7 @@ const Footer = () => {
                     <a href="https://www.instagram.com/_.abdullah_al_maruf._/" target='blank'>Instagram</a>
                 </div>
                 <div>
-                    <a href="https://www.behance.net/abdullahalmaruf1" target='blank'>Behence</a>
+                    <a href="https://www.behance.net/abdullahalmaruf1" target='blank'>Behance</a>
                 </div>
             </div>
             <div>
