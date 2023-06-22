@@ -12,7 +12,7 @@ const Home = () => {
                 <div className='text-center lg:text-left'>
                     <h2 className='text-xl md:mb-[11px] text-[#a5a5a5]'>Hi, this is</h2> <br />
                     <h2 className='text-3xl md:text-5xl font-bold text-white md:mb-[18px]'>Abdullah Al Maruf</h2><br />
-                    <p className='mb-[18px] lg:w-[420px] text-[#a5a5a5]'>I'm a freelance Graphic and Motion designer based in Dhaka,  Bangladesh. Ispecialized in creating outstanding visuals that helps your brand to achieve business goals.</p>
+                    <p className='mb-[18px] p-2 sm:p-0 lg:w-[420px] text-[#a5a5a5]'>I'm a freelance Graphic and Motion designer based in Dhaka,  Bangladesh. Ispecialized in creating outstanding visuals that helps your brand to achieve business goals.</p>
                     <Link to='/contact' className='block mx-auto lg:mx-0 bg-[#ffb444] text-2xl py-3 px-11 w-fit font-semibold rounded-[48px]'>Contact</Link>
                 </div>
 
