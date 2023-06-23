@@ -1,3 +1,11 @@
 .circle-img{
     border-radius: 50%;
 }
+.onHover{
+    opacity: 1;
+    transition: 0.4s;
+}
+.onHover:hover{
+    opacity: 0.7;
+    transition: ease-in-out 0.4s;
+}

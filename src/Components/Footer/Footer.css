@@ -1,3 +1,10 @@
 a{
     text-decoration:none;
 }
+.makeWhite{
+    transition: ease-out 0.3s;
+}
+.makeWhite:hover{
+    color: white;
+    transition: ease-in 0.3s;
+}

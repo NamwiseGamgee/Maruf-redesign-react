@@ -5,16 +5,16 @@ const Footer = () => {
         <div className='py-6 px-[20px] md:px-[100px] bg-[#010818] flex flex-col lg:flex-row text-center gap-5 md:justify-between items-center'>
             <div className='text-sm text-[#a5a5a5] flex gap-5 md:gap-12'>
                 <div>
-                    <a href="https://www.linkedin.com/in/maruf1" target='blank'>LinkedIn</a>
+                    <a className='makeWhite' href="https://www.linkedin.com/in/maruf1" target='blank'>LinkedIn</a>
                 </div>
                 <div>
-                    <a href="https://www.facebook.com/abdullahal.maruf.319" target='blank'>Facebook</a>
+                    <a className='makeWhite' href="https://www.facebook.com/abdullahal.maruf.319" target='blank'>Facebook</a>
                 </div>
                 <div>
-                    <a href="https://www.instagram.com/_.abdullah_al_maruf._/" target='blank'>Instagram</a>
+                    <a className='makeWhite' href="https://www.instagram.com/_.abdullah_al_maruf._/" target='blank'>Instagram</a>
                 </div>
                 <div>
-                    <a href="https://www.behance.net/abdullahalmaruf1" target='blank'>Behance</a>
+                    <a className='makeWhite' href="https://www.behance.net/abdullahalmaruf1" target='blank'>Behance</a>
                 </div>
             </div>
             <div>
